@@ -9,3 +9,33 @@ CMD [ "sudo apt-get install jenkins", "run" ]
 # docker login
 # docker push <>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=gdbA3vR2eDs
+
